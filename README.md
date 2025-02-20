@@ -1,16 +1,15 @@
-## Hi there 👋
+                 👋 Hello, I'm Walid Khan
+🎯 AI Engineer | Machine Learning Enthusiast | NLP & Chatbot Developer
 
-<!--
-**walid11111/walid11111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Chatbot Development
 
-Here are some ideas to get you started:
+📖 Currently exploring Deep Learning, Natural Language Processing (NLP), and LangChain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 Open to collaborating on AI-driven projects, NLP models, and chatbot applications
+
+📩 Let's Connect:
+💌 Email: artificial889900@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/walid-khan-aa691726a
+📱 WhatsApp: 📲 +92 349 9091863
+  
+⚡ Fun Fact: I love exploring data and building AI-powered solutions! 🚀
