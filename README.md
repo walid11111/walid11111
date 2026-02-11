@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Walid Khan
 
-🎯 **AI Engineer | Generative AI | LLMs & Agentic AI (LangGraph, CrewAI) | Computer Vision | FastAPI**
+🎯 **AI/ML Engineer | GenAI, LLMs, RAG, LangChain, LangGraph | FastAPI | BS AI (UET Mardan)**
 
 I build intelligent AI systems that solve real-world problems, specializing in **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **multi-agent workflows**. My focus is on creating scalable, production-ready solutions with impact.
 
